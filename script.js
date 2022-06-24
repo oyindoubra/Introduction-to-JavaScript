@@ -1,4 +1,4 @@
-function zuritask() {
+function assignment() {
     alert("Assignment");
 }
 var Name=prompt("What is your name?"); 
